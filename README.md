@@ -59,7 +59,7 @@ exit #退出
 
 #### 登陆界面安装 ####
 
-https://github.com/ydidc/NewWorld-For-DirectAdmin-Login-Page
+https://github.com/ydidc/NeWorld-For-DirectAdmin-Login-Page
 
 
 ## 自定义页面
